@@ -120,6 +120,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
+| [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
 <!---LeetCode Topics End-->
