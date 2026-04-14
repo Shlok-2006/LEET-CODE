@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Shlok-2006/LEET-CODE/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
+| [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
