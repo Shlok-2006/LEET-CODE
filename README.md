@@ -15,6 +15,7 @@
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
+| [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
+| [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
