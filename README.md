@@ -12,6 +12,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Shlok-2006/LEET-CODE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
