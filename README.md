@@ -164,12 +164,14 @@
 | [0063-unique-paths-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shlok-2006/LEET-CODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shlok-2006/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Shlok-2006/LEET-CODE/tree/main/0072-edit-distance/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shlok-2006/LEET-CODE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Shlok-2006/LEET-CODE/tree/main/0072-edit-distance/) | Medium |
 | [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0680-valid-palindrome-ii/) | Easy |
