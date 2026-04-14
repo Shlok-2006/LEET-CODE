@@ -105,6 +105,7 @@
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
 | [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
