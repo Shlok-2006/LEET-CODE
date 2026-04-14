@@ -11,6 +11,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Shlok-2006/LEET-CODE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,8 +101,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
