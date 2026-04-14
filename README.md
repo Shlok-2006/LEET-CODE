@@ -16,6 +16,7 @@
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
