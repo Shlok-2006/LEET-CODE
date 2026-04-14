@@ -14,6 +14,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shlok-2006/LEET-CODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shlok-2006/LEET-CODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,10 +64,12 @@
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +113,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
