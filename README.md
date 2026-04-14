@@ -163,6 +163,7 @@
 | [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shlok-2006/LEET-CODE/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shlok-2006/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shlok-2006/LEET-CODE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -180,10 +181,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shlok-2006/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/Shlok-2006/LEET-CODE/tree/main/0738-monotone-increasing-digits/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shlok-2006/LEET-CODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
