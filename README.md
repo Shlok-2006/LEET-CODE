@@ -13,6 +13,7 @@
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-2006/LEET-CODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shlok-2006/LEET-CODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | [0169-majority-element](https://github.com/Shlok-2006/LEET-CODE/tree/main/0169-majority-element/) | Easy |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shlok-2006/LEET-CODE/tree/main/0148-sort-list/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +108,7 @@
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Shlok-2006/LEET-CODE/tree/main/0611-valid-triangle-number/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
