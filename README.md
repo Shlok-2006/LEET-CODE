@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Shlok-2006/LEET-CODE/tree/main/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shlok-2006/LEET-CODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shlok-2006/LEET-CODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shlok-2006/LEET-CODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Shlok-2006/LEET-CODE/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/Shlok-2006/LEET-CODE/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Shlok-2006/LEET-CODE/tree/main/0605-can-place-flowers/) | Easy |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Shlok-2006/LEET-CODE/tree/main/0055-jump-game/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shlok-2006/LEET-CODE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
