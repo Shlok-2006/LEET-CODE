@@ -119,6 +119,7 @@
 | [0621-task-scheduler](https://github.com/Shlok-2006/LEET-CODE/tree/main/0621-task-scheduler/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Shlok-2006/LEET-CODE/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Shlok-2006/LEET-CODE/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
