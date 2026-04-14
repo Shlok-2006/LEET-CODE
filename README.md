@@ -126,6 +126,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shlok-2006/LEET-CODE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/Shlok-2006/LEET-CODE/tree/main/0738-monotone-increasing-digits/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +164,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/Shlok-2006/LEET-CODE/tree/main/0738-monotone-increasing-digits/) | Medium |
 <!---LeetCode Topics End-->
