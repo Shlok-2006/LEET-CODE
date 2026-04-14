@@ -156,6 +156,7 @@
 | [0045-jump-game-ii](https://github.com/Shlok-2006/LEET-CODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shlok-2006/LEET-CODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shlok-2006/LEET-CODE/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shlok-2006/LEET-CODE/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Shlok-2006/LEET-CODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shlok-2006/LEET-CODE/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -172,6 +173,11 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
 | [0670-maximum-swap](https://github.com/Shlok-2006/LEET-CODE/tree/main/0670-maximum-swap/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/Shlok-2006/LEET-CODE/tree/main/0738-monotone-increasing-digits/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Shlok-2006/LEET-CODE/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
